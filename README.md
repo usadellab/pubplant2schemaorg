@@ -44,7 +44,7 @@ The project is deployed via **GitHub Actions**:
 | :--- | :--- | :--- |
 | main | `build_static.py` | Main execution script for fetching and saving data. |
 | main | `schema_transformer.py` | Mapping logic for Schema.org conversion. |
-| main | .github/workflows/`deploy.yml` | GitHub Actions workflow for CI/CD. |
+| main | `.github/workflows/deploy.yml` | GitHub Actions workflow for CI/CD. |
 | gh-pages | `genomes.json` | The final transformed FAIR-compliant metadata file. |
 
 ---
