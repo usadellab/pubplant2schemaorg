@@ -54,7 +54,7 @@ The project is deployed via **GitHub Actions**:
 Data source provided by **Forschungszentrum Jülich GmbH, IBG-4 Bioinformatics**.
 
 If you use this data in your research, please cite the original PubPlant publication:
-> Schwacke R, Bolger ME and Usadel B (2025) PubPlanta continuously updated online resource for sequenced and published plant genomes. Front. Plant Sci. [cite_start]16:1603547. doi: 10.3389/fpls.2025.1603547.
+> Schwacke R, Bolger ME and Usadel B (2025) PubPlant - a continuously updated online resource for sequenced and published plant genomes. Front. Plant Sci. 16:1603547. doi: 10.3389/fpls.2025.1603547.
 
 ---
 *Developed as part of the FAIRagro federated RDI initiative.*
