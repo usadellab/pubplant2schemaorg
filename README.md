@@ -40,12 +40,12 @@ The project is deployed via **GitHub Actions**:
 
 ## 📂 Repository Structure
 
-| File | Description |
-| :--- | :--- |
-| `build_static.py` | Main execution script for fetching and saving data. |
-| `schema_transformer.py` | Mapping logic for Schema.org conversion. |
-| `deploy.yml` | GitHub Actions workflow for CI/CD. |
-| `public/genomes.json` | The final transformed FAIR-compliant metadata file. |
+| Branch | File | Description |
+| :--- | :--- | :--- |
+| main | `build_static.py` | Main execution script for fetching and saving data. |
+| main | `schema_transformer.py` | Mapping logic for Schema.org conversion. |
+| main | `deploy.yml` | GitHub Actions workflow for CI/CD. |
+| gh-pages | `genomes.json` | The final transformed FAIR-compliant metadata file. |
 
 ---
 
