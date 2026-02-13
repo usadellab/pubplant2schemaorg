@@ -3,7 +3,7 @@ name: Update Genome API
 on:
   # Run on push to main branch
   push:
-    branches: [ main ]
+    branches: [ master ]
   # Run automatically every day at midnight UTC
   schedule:
     - cron: '0 0 * * *'
